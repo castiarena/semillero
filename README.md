@@ -1,2 +1,3 @@
-# semillero
-Semillero skateboard
+# Semillero - 🌱🛹
+
+Institutional website of skateboarding brand
